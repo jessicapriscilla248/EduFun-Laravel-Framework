@@ -1,0 +1,1 @@
+<link rel="stylesheet" href="<?php echo e(asset('bootstrap5.2/css/bootstrap.min.css')); ?>"><?php /**PATH D:\Jessica\Semester 5\Web Programming\Quiz 1\EduFun_Quiz1\resources\views/layout/bootstrap.blade.php ENDPATH**/ ?>
