@@ -60,15 +60,15 @@ Faker dipakai untuk membantu generate data palsu, jadi kita tidak perlu insert s
 Secara keseluruhan, website EduFun dengan framework laravel ini sudah berhasil dan tidak ada error. Berikut lampiran bukti screenshot saya telah mengerjakan website EduFun dan website telah berjalan dengan baik.
 
 ## Screenshot
-<img src="public\img\bukti1.jpg" alt="Preview" width="500"/>
-<img src="public\img\bukti2.jpg" alt="Preview" width="500"/>
-<img src="public\img\bukti3.jpg" alt="Preview" width="500"/>
-<img src="public\img\bukti4.jpg" alt="Preview" width="500"/>
-<img src="public\img\bukti5.jpg" alt="Preview" width="500"/>
-<img src="public\img\bukti6.jpg" alt="Preview" width="500"/>
-<img src="public\img\bukti7.jpg" alt="Preview" width="500"/>
-<img src="public\img\bukti8.jpg" alt="Preview" width="500"/>
-<img src="public\img\bukti9.jpg" alt="Preview" width="500"/>
+<img src="public\img\bukti1.JPG" alt="Preview" width="500"/>
+<img src="public\img\bukti2.JPG" alt="Preview" width="500"/>
+<img src="public\img\bukti3.JPG" alt="Preview" width="500"/>
+<img src="public\img\bukti4.JPG" alt="Preview" width="500"/>
+<img src="public\img\bukti5.JPG" alt="Preview" width="500"/>
+<img src="public\img\bukti6.JPG" alt="Preview" width="500"/>
+<img src="public\img\bukti7.JPG" alt="Preview" width="500"/>
+<img src="public\img\bukti8.JPG" alt="Preview" width="500"/>
+<img src="public\img\bukti9.JPG" alt="Preview" width="500"/>
 
 
 
