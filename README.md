@@ -60,7 +60,15 @@ Faker dipakai untuk membantu generate data palsu, jadi kita tidak perlu insert s
 Secara keseluruhan, website EduFun dengan framework laravel ini sudah berhasil dan tidak ada error. Berikut lampiran bukti screenshot saya telah mengerjakan website EduFun dan website telah berjalan dengan baik.
 
 ## Screenshot
-
+<img src="img\bukti1.jpg" alt="Preview" width="500"/>
+<img src="img\bukti2.jpg" alt="Preview" width="500"/>
+<img src="img\bukti3.jpg" alt="Preview" width="500"/>
+<img src="img\bukti4.jpg" alt="Preview" width="500"/>
+<img src="img\bukti5.jpg" alt="Preview" width="500"/>
+<img src="img\bukti6.jpg" alt="Preview" width="500"/>
+<img src="img\bukti7.jpg" alt="Preview" width="500"/>
+<img src="img\bukti8.jpg" alt="Preview" width="500"/>
+<img src="img\bukti9.jpg" alt="Preview" width="500"/>
 
 
 
